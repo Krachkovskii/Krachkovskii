@@ -1,10 +1,18 @@
 - 👋 Hi, I’m Ilia @Krachkovskii!
-- I am a BIM Specialist working with Archea Associati from Florence, Italy.
-- My main focus is architectural design; I am skilled in modelling, designing, documenting and automating stuff in Revit
-- In 2020, I started learning to work with Dynamo, and in 2022 I wqas brutally forced to make some bits using 🐍 Python 🐍
-- In 2023, I expanded my learning areas to C# and .NET in Revit context, i.e. making Add-ins and Dynamo nodes
-- Now there was no way back - every project is a fun challenge where I can learn something new!
-- I'm using github mainly to brag about my achievments and to document my progress.
+  
+- 👷‍♂️ Qualified architect with a couple of years of professional experience.
+- 🏗️ Working as a BIM Specialist (occasionally as BIM Coordinator and BIM Manager) since 2020.
+- 🇮🇹 Currently at: Archea Associati / Marco Casamonti & Partners @ Florence, Italy
+
+- I have a big passion for computational design and BIM automation.
+- My scope of work is development of add-ins, custom nodes, scripts and workflows for architectural design.
+- I write in Python and C#, and work mainly in Revit, Dynamo and Grasshopper.
+- Memorable experience: model data translation & spell-checking, generation of all sorts of facades
+
+- 🚵‍♂️ Absolutely love all sorts of activities: hiking, rock climbing, cycling
+- 🚙 Love car trips (especially when I'm behind the wheel of a nice car)
+
+- Most of my repositories are private personal and work projects
 
 <!---
 Krachkovskii/Krachkovskii is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
