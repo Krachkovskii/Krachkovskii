@@ -9,7 +9,6 @@
 - I have a big passion for computational design and BIM automation.
 - My scope of work is development of add-ins, custom nodes, scripts and workflows for architectural design.
 - I write in Python and C#, and work mainly in Revit, Dynamo and Grasshopper.
-- Memorable experience: model data translation & spell-checking, generation of all sorts of facades
 
 
 - 🚵‍♂️ Absolutely love all sorts of activities: hiking, rock climbing, cycling
