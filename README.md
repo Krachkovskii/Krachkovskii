@@ -8,8 +8,11 @@
 
 - My scope of work is development of complex add-ins, custom nodes, scripts and workflows for AEC.
 I work with both front-end and back-end development.
+
 Software development scope: Revit / pyRevit / Dynamo | Rhino / Grasshopper (both graph and plug-in development) | Navisworks
+
 Tech stack: .NET (Framework too!) / WPF / MVVM / FluentUI / DI / Automated testing
+
 Languages: C# / Python
 
 - 🚵‍♂️ Absolutely love all sorts of activities: hiking, rock climbing, cycling, running
