@@ -2,14 +2,17 @@
 
 
 - 👷‍♂️ Qualified architect with a couple of years of professional experience.
-- 🏗️ Working in roles of a BIM Specialist, BIM Coordinator and BIM Manager since 2019.
+🏗️ Working in roles of a BIM Specialist, BIM Coordinator and BIM Manager, 2019-2024.
 
+- Working as a .NET software developer for AEC industry since 2024.
 
-- My scope of work is development of add-ins, custom nodes, scripts and workflows for AEC.
-- I write in Python and C#, and work mainly in Revit, pyRevit, Dynamo and Grasshopper.
+- My scope of work is development of complex add-ins, custom nodes, scripts and workflows for AEC.
+I work with both front-end and back-end development.
+Software development scope: Revit / pyRevit / Dynamo | Rhino / Grasshopper (both graph and plug-in development) | Navisworks
+Tech stack: .NET (Framework too!) / WPF / MVVM / FluentUI / DI / Automated testing
+Languages: C# / Python
 
-
-- 🚵‍♂️ Absolutely love all sorts of activities: hiking, rock climbing, cycling
+- 🚵‍♂️ Absolutely love all sorts of activities: hiking, rock climbing, cycling, running
 - 🚙 Love long on- and off-road car trips (especially when I'm behind the wheel)
 
 
